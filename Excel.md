@@ -106,7 +106,7 @@
 
 #### Q15. In this worksheet, how are cells A2:D2 related to cell C4?
 
-![Image](images/Q015.png?raw=true)
+![Image](images/Q15.png?raw=true)
 
 - [ ] Cells A2:D2 are comments relating to the formula in cell C4.
 - [ ] Cells A2:D2 are the source of an error in the formula in cell C4.
